@@ -1,0 +1,21 @@
+#img-photo{
+    float: right;
+    width: 150px;
+}
+
+#lbjgif{
+    width: 100px;
+}
+
+.jqm-block-content {
+    margin: .5em;
+    padding: 1em;
+    background: #fff;
+    border: 1px solid #eee;
+    border-radius: .3125em;
+    font-family: sans-serif;
+}
+
+.jqm-block-content{
+    border: 2px solid #fcf299;
+}
