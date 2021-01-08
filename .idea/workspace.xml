@@ -16,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lpDqVF8dJ06fjhZbv22wvr6hcH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,11 +65,23 @@
       <workItem from="1609960784124" duration="1309000" />
       <workItem from="1609981880508" duration="647000" />
       <workItem from="1610004668707" duration="145000" />
-      <workItem from="1610067302190" duration="409000" />
+      <workItem from="1610067302190" duration="1197000" />
     </task>
+    <task id="LOCAL-00001" summary="I">
+      <created>1610067972978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610067972978</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I" />
+    <option name="LAST_COMMIT_MESSAGE" value="I" />
   </component>
 </project>
